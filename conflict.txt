@@ -1,1 +1,1 @@
-This is repo1 version.
+This is fixed version: repo1 and repo2 are merged!
